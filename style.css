@@ -1,0 +1,23 @@
+.compute {
+    height: 80px;
+    width: 30%;
+    text-align: center;
+    font-family: 'Aclonica';
+    font-size: 22px;
+}
+
+* {
+    margin-top: 50px;
+    font-family: 'Aclonica';
+    font-size: 22px;
+}
+
+.laban {
+    height: 80px;
+    width: 30%;
+    text-align: center;
+    font-family: 'Aclonica';
+    font-size: 22px;
+    margin-left: 120px;
+    background-color: lightgoldenrodyellow;
+}
